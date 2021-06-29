@@ -23,5 +23,17 @@ Table of Content
 14. contact part
 15. footer part
 */
-/*Common css */
-a
+/*Common css start*/
+body{
+	font-family: 'Lato', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,p,ul,li,ol,span{
+	padding: 0;
+	margin: 0;
+}
+ul{
+	list-style-type: none;
+}
+a:hover{
+	text-decoration: none;
+}
